@@ -1,0 +1,1 @@
+nativefier --name "app" "http://applinks.ml/" 
